@@ -1,0 +1,81 @@
+
+
+		"type": "MiAirPurifier2",
+      		"name": "Air Purifier",
+      		"ip": "192.168.50.111",
+      		"token": "a7647b7a7c6df16adbdbe2c03801d67c",
+      		"showTemperature": true,
+      		"showHumidity": true,
+      		"showAirQuality": true,
+
+
+
+    "platforms": [
+        {
+            "platform": "MiAqaraPlatform",
+            "gateways": {
+                "7c8f5fec44ed": "54878756454654d"
+            }
+        }
+    ]
+}
+      		"showLED": true,
+      		"showBuzzer": true
+	}]
+}
+
+
+
+
+"platforms": [{
+    "platform": "MiAirPurifierPlatform",
+    "deviceCfgs": [{
+        "type": "MiAirPurifier",
+        "ip": "192.168.88.xx",
+        "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "airPurifierDisable": false,
+        "airPurifierName": "AirPurifier",
+        "silentModeSwitchDisable": false,
+        "silentModeSwitchName": "AirPurifier Silent Mode Switch",
+        "buzzerSwitchDisable": true,
+        "buzzerSwitchName": "AirPurifier Buzzer Switch",
+        "ledBulbDisable": true,
+        "ledBulbName": "AirPurifier LED Switch",
+        "airQualityDisable": false,
+        "airQualityName": "AirQuality"
+    }, {
+        "type": "MiAirPurifier2",
+        "ip": "192.168.88.xx",
+        "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "airPurifierDisable": false,
+        "airPurifierName": "AirPurifier",
+        "silentModeSwitchDisable": false,
+        "silentModeSwitchName": "AirPurifier Silent Mode Switch",
+        "temperatureDisable": false,
+        "temperatureName": "Temperature",
+        "humidityDisable": false,
+        "humidityName": "Humidity",
+        "buzzerSwitchDisable": true,
+        "buzzerSwitchName": "AirPurifier Buzzer Switch",
+        "ledBulbDisable": true,
+        "ledBulbName": "AirPurifier LED Switch",
+        "airQualityDisable": false,
+        "airQualityName": "AirQuality"
+    }, {
+        "type": "MiAirPurifierPro",
+        "ip": "192.168.88.xx",
+        "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "airPurifierDisable": false,
+        "airPurifierName": "AirPurifier",
+        "silentModeSwitchDisable": false,
+        "silentModeSwitchName": "AirPurifier Silent Mode Switch",
+        "temperatureDisable": false,
+        "temperatureName": "Temperature",
+        "humidityDisable": false,
+        "humidityName": "Humidity",
+        "buzzerSwitchDisable": true,
+        "buzzerSwitchName": "AirPurifier Buzzer Switch",
+        "ledBulbDisable": true,
+        "ledBulbName": "AirPurifier LED Switch",
+        "airQualityDisable": false,
+        "airQualityName": "AirQuality"

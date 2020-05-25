@@ -1,0 +1,235 @@
+    1  curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+    2  sudo apt-get install -y nodejs
+    3  sudo apt update
+    4  sudo apt upgrade
+    5  nodejs -v
+    6  sudo apt-get install libavahi-compat-libdnssd-dev
+    7  sudo npm install -g --unsafe-perm homebridge
+    8  exit
+    9  sudo npm install -g --unsafe-perm homebridge
+   10  sudo apt install npm
+   11  sudo npm install -g --unsafe-perm homebridge
+   12  sudo npm install -g homebridge-mi-aqara
+   13  sudo npm -g install homebridge-mi-air-purifier miio
+   14  miio discover
+   15  npm install -g miio 
+   16  sudo npm install -g miio 
+   17  miio discover
+   18  clear
+   19  npm install -g miio 
+   20  miio --discover
+   21  miio discover
+   22  miio ?
+   23  miio help
+   24  miio --help
+   25  miio -?
+   26  miio ?
+   27  ck3Device ID: 259235499
+   28  Model info: zhimi.airpurifier.ma2
+   29  Address: 192.168.50.112
+   30  Token: ???
+   31  Support: At least generic
+   32  Device ID: 132698291
+   33  Model info: zhimi.airpurifier.mb1
+   34  Address: 192.168.50.113
+   35  Token: ???
+   36  Support: At least generic
+   37  Device ID: 132484444
+   38  Model info: zhimi.airpurifier.mb1
+   39  Address: 192.168.50.111
+   40  Token: ???
+   41  Support: At least generic
+   42  miio tokens
+   43  miio tokens 192.168.50.111
+   44  miio discover
+   45  sudo npm -g install homebridge-mi-air-purifier miio
+   46  Homebridge
+   47  homebridge
+   48  homebridge-mi-air-purifier2
+   49  npm homebridge-mi-air-purifier2
+   50  npm i homebridge-mi-air-purifier2
+   51  npm i homebridge-mi-airpurifier
+   52  homebridge
+   53  sudo npm install -g homebridge-mi-airpurifier
+   54  sudo npm install -g homebridge-mi-airpurifier
+   55  homebridge
+   56  miio discover
+   57  homebridge
+   58  sudo npm -g --unsafe-perm install homebridge-server
+   59  homebridge
+   60  xit
+   61  eit
+   62  exit
+   63  tmux at -t homebridge
+   64  tmux at -t homeb
+   65  tmux ls
+   66  tmux at -t homebridge
+   67  exit
+   68  htop
+   69  exit
+   70  exit
+   71  homebridge
+   72  clear
+   73  exit
+   74  homebridge
+   75  exit
+   76  htop
+   77  exit
+   78  htop
+   79  CLEAR
+   80  clear
+   81  clock
+   82  time
+   83  clear
+   84  date
+   85  date "+%H
+   86  "
+   87  clear
+   88  exit
+   89  eixt
+   90  clear
+   91  exit
+   92  homebridge 
+   93  exit
+   94  htop
+   95  exit
+   96  npm install -g homebridge-mi-airpurifier
+   97  sudo npm install -g homebridge-mi-airpurifier
+   98  homebridge
+   99  docker
+  100  sudo apt install docker
+  101  clear
+  102  tmux
+  103  sudo apt install tmux
+  104  tmux new -s homebridge
+  105  htop
+  106  tmux ls
+  107  tmux at -t homebridge
+  108  tmux at -t htop
+  109  tmux at -t htop
+  110  tmux at -t homebridge
+  111  tmux 
+  112  tmux new -s View
+  113  cgi
+  114  cli
+  115  clear
+  116  homebridge 
+  117  exit
+  118  cleart
+  119  exit
+  120  hyop
+  121  clear
+  122  htop
+  123  exit
+  124  t
+  125  clear
+  126  tmux new -s View
+  127  git clone https://github.com/waveshare/LCD-show.git
+  128  cd LCD-show/
+  129  sudo ./LCD35C-show
+  130  sudo ./LCD35C-show 270
+  131  cd LCD-show/
+  132  sudo ./LCD35C-show 270
+  133  sudo ./LCD35C-show 180
+  134  cd LCD-show/
+  135  sudo ./LCD35C-show 180
+  136  exit
+  137  exit
+  138  clear
+  139  tmux new -s View
+  140  exit
+  141  htop
+  142  exit
+  143  tmux new -s View
+  144  exit
+  145  clear
+  146  homebridge 
+  147  cd LCD-show/
+  148  sudo ./LCD35C-show 90
+  149  clear
+  150  homebridge 
+  151  clear
+  152  exit
+  153  htop
+  154  exut
+  155  exit
+  156  cleasr
+  157  clear
+  158  homebridge 
+  159  clear
+  160  tmux new -s View
+  161  tmux new -s time
+  162  exit
+  163  homebridge 
+  164  htop
+  165  clea
+  166  clear
+  167  cleear
+  168  clear
+  169  texit
+  170  tmux new -s View
+  171  ;p
+  172  ;;;
+  173  cleasr
+  174  clear
+  175  tmux at -t  View
+  176  tmux ls
+  177  tmux at -t  2
+  178  tmux at -t  1
+  179  tmux at -t  homebridge
+  180  exit
+  181  homebridge 
+  182  clear
+  183  tmux new -s homebridge
+  184  tmux new -s time
+  185  clear
+  186  exit
+  187  dls
+  188  ls
+  189  clear
+  190  ls
+  191  la
+  192  ls -a
+  193  clear
+  194  ~~exit
+  195  exit
+  196  clear
+  197  tmux new -s homebridge
+  198  tmux at  time
+  199  tmux at -s time
+  200  tmux at -t time
+  201  exit
+  202  homebridge 
+  203  jistory
+  204  history
+  205  cd LCD-show/
+  206  ls
+  207  ls -a
+  208  history
+  209  history
+  210  cd LCD-show/
+  211  history | grep sudo
+  212  sudo ./LCD35C-show 270
+  213  cd LCD-show/ ;sudo ./LCD35C-show 0
+  214  ls
+  215  homebridge
+  216  sudo su
+  217  passwd
+  218  sudo adduser yitsewu 
+  219  sudo usermod -aG yitsewu
+  220  sudo u
+  221  sudo userdel -r yitsewu
+  222  sudo adduser yitsewu sudo
+  223  exit
+  224  ls
+  225  sudo userdel -r yitsewu
+  226  sudo adduser yitsewu sudo
+  227  sudo adduser yitsewu1998 sudo
+  228  exit
+  229  sudo su
+  230  passwd
+  231  ls
+  232  history > history.txt
+  233  cat history.txt 
+  234  cd Desktop/
+  235  history > history.txt

@@ -1,0 +1,17 @@
+{
+	"bridge": {
+		"name": "myhomekit",
+		"username": "AC:A3:5C:EA:88:EC",
+		"port": 13358,
+		"pin": "412-64-318"
+	},
+	"accessories": [{
+      		"accessory": "MiAirPurifier",
+      		"name": "Air Purifier",
+		"ip": "192.168.50.111",
+		"token": "a7647b7a7c6df16adbdbe2c03801d67c",
+      		"showTemperature": true,
+      		"showHumidity": true,
+      		"showAirQuality": true
+    	}]
+}

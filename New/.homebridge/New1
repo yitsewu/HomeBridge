@@ -1,0 +1,22 @@
+"platforms": [{
+		"platform": "MiAirPurifierPlatform",
+		"deviceCfgs": [{
+			"type": "MiAirPurifier2S",
+        		"ip": "192.168.50.111",
+        		"token": "a7647b7a7c6df16adbdbe2c03801d67c",
+        		"airPurifierDisable": false,
+        		"airPurifierName": "MiAirPurifier2S",
+        		"silentModeSwitchDisable": true,
+        		"silentModeSwitchName": "MiAirPurifier2S Silent Mode Switch",
+        		"temperatureDisable": true,
+        		"temperatureName": "MiAirPurifier2S Temperature",
+        		"humidityDisable": true,
+        		"humidityName": "MiAirPurifier2S Humidity",
+        		"buzzerSwitchDisable": true,
+        		"buzzerSwitchName": "MiAirPurifier2S Buzzer Switch",
+        		"ledBulbDisable": true,
+        		"ledBulbName": "MiAirPurifier2S LED Switch",
+       			"airQualityDisable": true,
+        		"airQualityName": "MiAirPurifier2S AirQuality"
+    		}]
+	}]

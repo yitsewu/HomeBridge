@@ -1,0 +1,33 @@
+{
+	"bridge": {
+		"name": "HomeBridge",
+		"username": "A4:A3:6E:EA:88:A2",
+		"port": 65530,
+		"pin": "400-64-153"
+	},
+	"platforms": [{
+    		"platform": "MiAirPurifierPlatform",
+    		"deviceCfgs": [{
+        		"type": "MiAirPurifier2S",
+        		"ip": "192.168.50.111",
+        		"token": "a7647b7a7c6df16adbdbe2c03801d67c",
+        		"airPurifierDisable": false,
+        		"airPurifierName": "MiAirPurifier2S",
+        		"silentModeSwitchDisable": false,
+        		"silentModeSwitchName": "MiAirPurifier2S Silent Mode Switch",
+        		"temperatureDisable": false,
+        		"temperatureName": "MiAirPurifier2S Temperature",
+        		"humidityDisable": false,
+        		"humidityName": "MiAirPurifier2S Humidity",
+        		"buzzerSwitchDisable": false,
+        		"buzzerSwitchName": "MiAirPurifier2S Buzzer Switch",
+        		"ledBulbDisable": false,
+        		"ledBulbName": "MiAirPurifier2S LED Switch",
+        		"airQualityDisable": false,
+        		"airQualityName": "MiAirPurifier2S AirQuality"
+    		}]
+	}]
+	
+
+}
+
